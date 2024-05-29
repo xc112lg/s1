@@ -1,7 +1,7 @@
 # Generating the keys:
 On root directory of your rom, run:
 
-    git clone https://github.com/GenesisOS/scripts.git -b utopia-2.0 scripts
+    git clone https://github.com/xc112lg/s1.git -b utopia-2.0 scripts
     chmod +x scripts/generate_certs.sh
     ./scripts/generate_certs.sh
 
